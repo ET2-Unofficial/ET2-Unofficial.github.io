@@ -7,6 +7,8 @@
 这里是一个未制作完成的 `Github Page`.
 暂时使用简单的 `Markdown` 格式编写.
 
+该仓库用于存放 `ET2U` 的策划部分, 受 `Apache License` 保护.  
+
 ### 章节目录
 
 - [模组列表](modlist.md)
